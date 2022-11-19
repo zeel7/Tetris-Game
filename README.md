@@ -9,6 +9,6 @@ Java
 OOPs
 
 # Screenshots
-["C:\Users\LENOVO\Pictures\Screenshots\Screenshot_20221119_023646.png"]
+![](https://user-images.githubusercontent.com/106370993/202843732-ac2b4e85-1900-46a1-9d23-1e8b40c931a0.png)
 
-"C:\Users\LENOVO\Pictures\Screenshots\Screenshot_20221119_023731.png"
+![](https://user-images.githubusercontent.com/106370993/202843729-16d9f8d5-23e0-4f1b-aa3b-a6c3ae467dbe.png)
